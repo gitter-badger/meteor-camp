@@ -1,2 +1,3 @@
-# meteor-camp
-Meteor训练营
+# Meteor训练营
+
+线上线下内容整合的一套新人训练体系。
