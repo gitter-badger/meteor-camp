@@ -157,24 +157,22 @@
 * 项目代码分析： meteor-bbs
 ```
 
-## 7 项目1 Meteor微信app应用开发
-* 微信app
+## 7 项目1 基于Meteor的微信app应用开发
+* 典型项目案例分析-活动行
   - 微信公众号
   - 微信SDK
-* 典型项目应用分析-活动行
   - 微信用户信息获取
   - 表单设计
-* 典型行业应用分析-滴滴打车（可选）
-  - 地图API
-  - 获取地理位置API
-  - O2O代码设计框架 
 
-## 8 项目2 基于Meteor的iOS/Android app应用开发
-* 典型购物商城项目案例
+## 8 项目2 基于Meteor的社交电商应用开发
+* 典型项目案例分析-购物商城
   - Code Analysis 代码分析
   - Data Design 数据设计
   - Work Flow 运转流程
   - Template Appliance 模版应用
 
-
+## 9 项目3 基于Meteor的iOS/Android app应用开发
+* 典型项目案例分析-松果生活
+  - iOS App 打包
+  - Android App 打包
 
