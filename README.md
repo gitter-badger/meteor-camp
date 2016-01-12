@@ -26,8 +26,6 @@
 * autoform 自动化表单构建
 * hooker 钩子函数
 
-## 第1周周五
-
 ## 第1周周六
 
 
@@ -41,9 +39,6 @@
 
 
 ## 第2周周四
-
-
-## 第2周周五
 
 
 ## 第2周周日
@@ -65,7 +60,7 @@
 * Basics
   - HTML5
   - CSS/LESS
-  - JavaScript/CoffeeScript
+  - JavaScript
 
 ```
 * 项目代码分析： hello
@@ -82,8 +77,6 @@
   - Blaze/Handlebar
 * Meteor Deploy
   - meteor deploy/settings
-  - meteor up/mup/mup.json
-  - how to deploy to aliyun/amazon EC2
 * Meteor app structure
   - client/server/lib/public/packages/tests
   - publications/subscriptions/methods/collections/routes/seeds
@@ -125,9 +118,6 @@
 * Iron router
   - Router.map()
   - this.render()
-* ionic framework/UI 
-  - meteoric:ionic
-  - meteoric:autoform-ionic
 * simple-schema
   - aldeed:autoform
 * underscore
