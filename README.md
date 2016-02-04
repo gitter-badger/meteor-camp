@@ -1,5 +1,7 @@
 # Meteor 训练营
 
+[![Join the chat at https://gitter.im/meteorcamp/meteor-camp](https://badges.gitter.im/meteorcamp/meteor-camp.svg)](https://gitter.im/meteorcamp/meteor-camp?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## [Meteor 培训](training/README.md)
 
 ## [项目实战](projects/README.md)
